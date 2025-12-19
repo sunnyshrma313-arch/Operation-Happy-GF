@@ -24,7 +24,7 @@ st.markdown("""
 
 # Header Section
 st.title("Hi there! ❤️")
-st.subheader("I made this little corner of the internet just for you.")
+st.subheader("I made this little corner of the internet just for you rubina ji.")
 
 # The Interactive Part
 st.write("---")
