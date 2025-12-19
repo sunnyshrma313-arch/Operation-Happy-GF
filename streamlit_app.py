@@ -48,5 +48,5 @@ if st.button('Click here for a surprise!'):
     st.success("I never knew what true happiness was until I met you. You've filled my life with a love so deep and beautiful that I can't imagine a single day without you")
 
 # Footer
-st.write("unwavering support, and recognizing her strength/beauty, like "You're capable of amazing things, I believe in you!" or "I'm so proud of you, stay strong!" or "You're my sunshine, go spread your magic!"")
+st.write("unwavering support, and recognizing her strength/beauty, like "You're capable of amazing things, I believe in you!" or "I'm so proud of you, stay strong!" or "You're my sunshine, go spread your magic!")
 st.write("🏠 Always there for you. Apka long distance realtionship wala pyar MANJOT.")
