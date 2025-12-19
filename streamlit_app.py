@@ -21,7 +21,7 @@ st.markdown("""
         color: white;
     }
     </style>
-    """, unsafe_allow_headers=True)
+    """, unsafe_allow_html=True)
 
 # Header Section
 st.title("Hi [mere pyar RUBINA jisne abhi tk to mera use nai kiya age bhi na kre]! ❤️")
