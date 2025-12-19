@@ -43,8 +43,8 @@ st.write("---")
 
 # The Big Surprise Button
 if st.button('Click here for a surprise!'):
-    st.balloons(20)
-    st.snow(100) 
+    st.balloons()
+    st.snow(50) 
     st.success("I never knew what true happiness was until I met you. You've filled my life with a love so deep and beautiful that I can't imagine a single day without you")
 
 # Footer
