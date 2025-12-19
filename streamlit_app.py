@@ -44,13 +44,11 @@ st.write("---")
 
 # The Big Surprise Button
 if st.button('Click here for a surprise!'):
-    st.balloons()
-    st.snow()  # Looks like confetti!
+    st.balloons(0)
+    st.snow(100)  # Looks like confetti!
     st.success("I love you more than words can say!")
     st.confetti() # Note: standard streamlit uses balloons, but you can add more logic here
 
-# Memory Gallery (Placeholder)
-st.write("### Our Best Moments 📸")
 col1, col2 = st.columns(2)
 
 with col1:
